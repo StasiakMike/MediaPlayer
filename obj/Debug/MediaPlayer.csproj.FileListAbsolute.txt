@@ -1,0 +1,34 @@
+c:\users\arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.baml
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\App.g.cs
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_Content.g.cs
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\bin\Debug\1.czym-jest-css3.mp4
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arek\documents\visual studio 2013\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.lref
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.g.cs
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\obj\Debug\App.g.cs
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_Content.g.cs
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.lref
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.baml
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\52. StatusBar i ProgressBar\51.mediaelement-wlasny-media-player-zrodlo\MediaPlayer\MediaPlayer\bin\Debug\1.czym-jest-html-5.mp4
